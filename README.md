@@ -6,5 +6,5 @@
 Python 3.8
 
 ## 验证方法
-在确保所需库均已安装的情况下运行Jupyter Notebook文件即可
+在确保所需库（Jupyter Notebook第一行中的库）均已安装的情况下运行Jupyter Notebook文件即可
 
